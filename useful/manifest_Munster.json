@@ -1,0 +1,213 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://7bc7f17f-8120-41be-9442-f6d5a1440aff",
+	"@type": "sc:Manifest",
+	"label": "",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "SHL-Abt15-0025 Kopialbuch der Münsterabtei, 14. sc. (Registre)",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://9eb4fab0-25a6-42d7-8956-758b42ba7cc1",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://f47a3d63-c1e7-4439-860e-147d859250ad",
+					"@type": "sc:Canvas",
+					"label": "fol. 4r\n\nTranscription\n\n/1/ 1.\n/2/ Incipiit privilegia monasteri Beate et gloriose virginis quibus dictum\n/3/ monasterium dotatum est et primo privilegium fundatoris videlicet illustris\n/4/ viri felicis recordationis quondam Conradi comitis qui primo dotavit dic\n/5/ um monasterium tamquam sponsam possessionibus subscriptis . In hec verba :\n/6/ In nomine Patris et Filii et spiritus sancti . Ego Con\n/7/ radus comes licet sero inspiracione divine gracie ad penitentiam\n/8/ provocatus , elemosinis et ceteris pietatis operibus peccata mea redimere\n/9/ statui que et vitio humane fragilitatis et ex officio secularis digni\n/10/ tatis contraxi et qui necdum iuxta preceptum domini ex integro potui\n/11/ cuncta derelinquere , decrevi saltem aliquam partem possessionum mearum\n/12/ Christo tribuere . Cepi itaque in monte hoc ubi nullus patrum meorum\n/13/ prius adoravit domum Domini in honore et veneratione apostolorum principis\n/14/ a fundamentis construere , in qua monachorum Turmulani sub nor\n/15/ ma Beati Benedicti militaturos institui et de rebus meis quantum\n/16/ ad presens visum fuit ecclesie ipsi absque calumpnia alicuius hominis ,\n/17/ seu advocatie , preter me et successoribus meis libere contradidi et eandem\n/18/ tradicionem ob confirmacionem posteris meis profuturam ne violenter\n/19/ beneficia fratrum subripiant , in cartula hac denotavi . Dedi scili\n/20/ cet eidem ecclesie in perpetuam dotem mansum unum in dominicatum ,\n/21/ et IIIIor vestitos et montem a turri extrema usque ad aquam cum banno ,\n/22/ et aquam a ponte Sancti Odolrici usque ad Rupem Moronis cum omnibus\n/23/ usibus suis et libera piscaturam pro velle supra et infra cum molendi\n/24/ nis et furnis . Tradidi etiam quatuor familias et in silva presenti\n/25/ que dicitur Andevanen , necnon et Santwilre silva quocumque loco fuerint",
+					"height": 2403, 
+					"width": 1835,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://48b1c65a-1a79-45f9-b07d-74e9b1128928",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://free.iiifhosting.com/iiif/7589f1735bb03a8e3d7745bb70d784d80f8a25526d6b286bbf697eeb89c595f9/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://free.iiifhosting.com/iiif/7589f1735bb03a8e3d7745bb70d784d80f8a25526d6b286bbf697eeb89c595f9",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"tif",
+												"jpg",
+												"gif",
+												"png"
+											],
+											"maxArea": 7094100,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2403, 
+								"width": 1835
+							},
+							"on": "http://f47a3d63-c1e7-4439-860e-147d859250ad"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://9987c26a-3db9-4e7c-9a55-818180040e14",
+					"@type": "sc:Canvas",
+					"label": "fol. 4v\n\nTranscription\n\n/1/ necessaria sive in pascendis porcis , aut aliis animalibus et signa et ma\n/2/ nem ad omnia edificia sine respectu redditus aut census , familiam quoque\n/3/ in villa que dicitur Cecingini cum omnibus que possident et apud Marseium\n/4/ pratum spatiosum cum omni usuario , sicut a me hactenus est possessum ,\n/5/ et apud Gocingiam villam , familiam et terram cum omnibus que ibi habeo\n/6/ fratribus concessi ad Montem Cuconis , Luzonem et fratres eius cum possessioni\n/7/ bus suis , apud Matheis allodium et familiam ubicumque sint excepto\n/8/ Amalrico et Ramberto cum hiis que possident . Curtim que dicitur\n/9/ Pris cum familia et reditibus , villam Rodenges cum familia et rediti\n/10/ bus . Ecclesiam de Furen cum adiacenti decima . Ecclesiam de Lenda cum tribus\n/11/ partibus decime , ita sane ut quod feodatum est hereditarie , deficientibus fili\n/12/ is , fratres possideant . Ecclesiam de Rode . Ecclesiam de Santwilre . Que omni\n/13/ a ut magis rata essent . Acta sunt annuente uxore mea Clementia ,\n/14/ cum filiis et filiabus nostris , in presentia domni Metensis episcopi Hermanni , vi\n/15/ carii apostolice sedis , affirmacione banni ipsius . Anno Dominice incarnatio\n/16/ nis millesimo LXXX III II nonas iulii , indictione VI sub testimonio\n/17/ virorum nobilium quorum nomina hec sunt : Raimboldus , Becelinus ,\n/18/ Tiedo , Richardus , Bertrannus , Albertus , in die consecrationis crip\n/19/ te . Quicumque ergo ex rebus hic adnotatis temere vi vel fraude\n/20/ rapuerit quicquam sit in anathema maranatha , sitque in perpetua dampna\n/21/ tione cum Dathan et Abyron et filiis Chore , fiat , fiat , fiat .\n/22/ Privilegis Willelmi super libertate et confinacione horum qui data sunt arpentibus .\n/23/ In nommine Sancte et individue Trinitatis . Ego\n/24/ Willelmus comes de Lucelenberch , cupiens imitari beate memorie",
+					"height": 2403, 
+					"width": 1835,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d859dbd1-5306-4290-8357-ce198699333c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://free.iiifhosting.com/iiif/19b66f73fef61124a30d265141b577180906708afc2397573546c6801e48e631/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "http://free.iiifhosting.com/iiif/19b66f73fef61124a30d265141b577180906708afc2397573546c6801e48e631",
+									"profile": "level1"
+								},
+								"height": 2403, 
+								"width": 1835
+							},
+							"on": "http://9987c26a-3db9-4e7c-9a55-818180040e14"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://9987c26a-3db9-4e7c-9a55-818180040e1",
+					"@type": "sc:Canvas",
+					"label": "fol. 5r\n\nTranscription\n\n/1/ 8.\n/2/ patrem meum Conradum comitem et perficere quod ipse incepit , vel potius bona\n/3/ voluntate implevit , oratorium secus predictum castrum ab eo fundatum et or\n/4/ dini monachorum deputatum rebusque suis quimadmodum placuit ditatum\n/5/ liberum esse sub tuicione apostolica statui . Quapropter ob memoriam libertatis\n/6/ aureum unum Rome ad altare Sancti Petri omni anno in die Palmarum , sive\n/7/ in cena domini offerri constituimus , quem videlicet aureum indictione prima an\n/8/ no V Beati secundi Kalixti pape , coram ipso apostolico per manum comitis He\n/9/ rimanni offerendum transmisimus , quem etiam obtulit in die qui consecratum\n/10/ est altare beati Apostoli Petri . Ergo quia nostris temporibus idem monasterium est\n/11/ perfectum et pater meus ipsum locum omnino liberum facere disposuit . Ego ut iam\n/12/ superius dictum est desiderans implere votum patris mei consilio domni Ar\n/13/ chiepiscopi Brunonis Trevirenis et bonorum virorum , liberum abbatem illic esse con\n/14/ stituimus , ita sane ut baculum pastoralem super altare accipiat . Statu\n/15/ imus autem ut abbatem ammodo aliunde non habeant , si in eodem loco per\n/16/ gratiam Dei dignus quisquam potuerit inveniri . Si vero quod absit ibi repertus\n/17/ non fuerit , consilio bonorum virorum alibi ydoneum accipiant , remota omni\n/18/ laicali electione . Advocatum in eadem abbatia esse prohibemus . Sed si forte in\n/19/ iuria aliqua inibi Deo serventibus illata fuerit a nobis sive a posteris\n/20/ nostris iusticia requiratur et nichil pro hac re nobis debetur . Dominus autem\n/21/ huius castri nullum gravamen eis inferat , nec de placitis vel de homi\n/22/ nibus eorum se intromittat , nullamque precii existimationem a banalibus\n/23/ eorum exigat , nec homines eorum hospitando vastet . Si vero bannalis\n/24/ eorum pacem fregerit vel latrocinium fecerit extraneus quoque si super ban\n/25/ num eorum fugerit predictus dominus sine licentia abbatis et conductu ministerialis",
+					"height": 2403, 
+					"width": 1835,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d859dbd1-5306-4290-8357-ce1986993c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://free.iiifhosting.com/iiif/933097ac08be6b0b4dd6a65b0f9910b0bdfdfbacaafbbace12bfd5cc88ff75ee/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "http://free.iiifhosting.com/iiif/933097ac08be6b0b4dd6a65b0f9910b0bdfdfbacaafbbace12bfd5cc88ff75ee",
+									"profile": "level1"
+								},
+								"height": 2403, 
+								"width": 1835
+							},
+							"on": "http://9987c26a-3db9-4e7c-9a55-818180040e1"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://9987c26a-3db9-4e7c-9a55-81880040e14",
+					"@type": "sc:Canvas",
+					"label": "fol. 5v\n\nTranscription\n\n/1/ ipsius capere cum non poterit et si se redemerint abbas duas partes dominus\n/2/ autem terciam partem accipiet . Si quas vero extraneus cuiuscumque homo ban\n/3/ nalis eorum fuerit si superbiens censum suum persolvere neglexerit ministeri\n/4/ alis abbatis legali iudicio domum eius obserabit et si contentiosus perman\n/5/ serit idem comiti proclamabit , qui iusticiam faciens , ipse terciam partem ab\n/6/ bas vero duas partes accipiet . Si denique annale mercatum vel forum super ban\n/7/ num ipsius loci stabilitum fuerit telonium vel alios reditus mercati vel fori\n/8/ accipient . Si autem in eodem mercato vel foro , quisquam procramaverit aliquid unde\n/9/ iustitia fieri debeat , si pugna campi id est duelli adiudicata fuerit in\n/10/ curia abbatis fiet et ipse abbas duas partes , comes vero tertiam partem\n/11/ accipiet . Cuncta igitur que a beato patre meo inibi Deo famulantibus\n/12/ donata sunt vel postea a nobilibus sive ab aliis fidelibus attibuta\n/13/ quineciam attribuenda sunt libera esse omnino et rata confirmamus . Hec\n/14/ sunt autem que eis inviolata consuerari decrmus . Scilicet dotem eiusdem eclesiams\n/15/ mansum unum in dominicatum et quatuor mansos vestitos et montem et planitiem \n/16/ ab extrima terri usque ad aquam decurrentem in circuitu montis , ipsam etiam aquam\n/17/ a ponte Sancti Odalrici usque ad Ruxe Moronis , cum omnibus usibus suis et\n/18/ siberam piscaturam pro velle supra et infra cum molendinis . Quatuor eti\n/19/ am familias , hoc est familiam in villa que dicitur , Cezingen cum omnibus\n/20/ que possident et apud Gozingiam villam familiam et terram que ibi ha\n/21/ benter . Ad Montem Cuconis Luzonem et fratres eius cum possessionibus suis . Apud\n/22/ Matheis , allodium et familiam ubicumque sint , Excepto Amalrico et Raimi\n/23/ berto cum possessionibus suis et apud Marseium pratum spatiosum cum omni usu\n/24/ ario sicut a patre meo datum est . Accipiant etiam omnia necessaria in silva",
+					"height": 2403, 
+					"width": 1835,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d859dbd1-5306-4290-857-ce198699333c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://free.iiifhosting.com/iiif/c3d2f9afdf67b974ff394b1b9cea0c02bef800a9e893a56fb69c22fbb14bb55/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://free.iiifhosting.com/iiif/c3d2f9afdf67b974ff394b1b9cea0c02bef800a9e893a56fb69c22fbb14bb55",
+									"profile": "level1"
+								},
+								"height": 2403, 
+								"width": 1835
+							},
+							"on": "http://9987c26a-3db9-4e7c-9a55-81880040e14"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://9987c26-3db9-4e7c-9a55-818180040e14",
+					"@type": "sc:Canvas",
+					"label": "fol. 6r\n\nTranscription\n\n/1/ 6.\n/2/ presenti que dicitur Andevana et in silva Santwilre quocumque loco fuerint ,\n/3/ non Silvis\n/4/ andivana rt\n/5/ sive in pascendis porcis , aut aliis animalibus et ligna et matiem ad omni\n/6/ Santwilei\n/7/ a edificia sine respectu reditus aut census , curtem que dicitur Pris cum\n/8/ banno familia et omnibus reditibus eis concedo , sicuti eam a patre meo da\n/9/ tam eidem loco novi . Villam Rodenges cum banno cum familia et omnibus\n/10/ reditibus . Ecclesiam de Furen cum omni adiacenti decima . Ecclesiam de Len\n/11/ da cum tribus partibus decime . Ecclesiam de Rode . Ecclesiam de Santwilre ,\n/12/ Hec omnia eidem cenobio donata sunt a patre meo , in die dedicacionis\n/13/ Cripte . Anno Incarnationis dominice Mmo LXXXIII annuente matre mea Cle\n/14/ mentia et fratribus meis . In presentia domini Hermanni metensis episcopi , sub tes\n/15/ timonio nobilium virorum quorum nomina hec sunt : Raimboldus , Becelinus ,\n/16/ Tiedo , Richardus , Stramus , Albertus . Postea cum pater meus in via ihe\n/17/ rosolimitana defunctus et sepultus , poster duos annos inde translatus et quarto\n/18/ anno in predicta cripta esse tumulatus venerabilis mater mea eodem die\n/19/ allodium quod dicitur Merra Christo et eius genitrici assensu filiorum suorum dedit ,\n/20/ itemque aliud Schefledinges nomine in campis , pratis et silvis cum fami\n/21/ lia non modica . Testes quoque huius donationis sunt : Theobaldus\n/22/ Godefridus , Bertramus , Lambertus , Becelinus , Richardus , Raimbol\n/23/ dus , Anselmus , omnia igitur que a patre meo donata sunt et a matre\n/24/ mea Clementia post ipsius decessum oblata sunt sive fideles quique\n/25/ per animabus suis ipsi loco obtulerunt , seu a nobis nunc ad honorem eiusdem\n/26/ ecclesie constituuntur illibata et absque ulla calumpnia illis permaneanter ,\n/27/ Quicumque autem ipsis iniurias irrogaverint et VI sive fraude quod eorum\n/28/ est abstulerint ab advocato illorum Petros apstolo excomicenter a present ecclesia ,",
+					"height": 2403, 
+					"width": 1835,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d85dbd1-5306-4290-8357-ce198699333c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://free.iiifhosting.com/iiif/aff7fe460027a707a719ad71f1dca6cd68e40a27768cf7b57df33663eee31873/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "http://free.iiifhosting.com/iiif/aff7fe460027a707a719ad71f1dca6cd68e40a27768cf7b57df33663eee31873",
+									"profile": "level1"
+								},
+								"height": 2403, 
+								"width": 1835
+							},
+							"on": "http://9987c26-3db9-4e7c-9a55-818180040e14"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
